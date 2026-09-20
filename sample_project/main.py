@@ -16,3 +16,5 @@ if quantity > 0:
     print("Status: Product is available.")
 else:
     print("Status: Product is out of stock.")
+
+print("Updated by Member 2")
